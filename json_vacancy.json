@@ -1,0 +1,154 @@
+[
+  {
+    'id': '3643187',
+    'name': {
+      'id': '3643187',
+      'name': '001KZ (001КЗ)',
+      'url': 'https://api.hh.ru/employers/3643187',
+      'alternate_url': 'https://hh.ru/employer/3643187',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1099094.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/6016990.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/6016989.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3643187',
+      'open_vacancies': 4
+    }
+  },
+  {
+    'id': '4620243',
+    'name': {
+      'id': '4620243',
+      'name': '01Математика Образование',
+      'url': 'https://api.hh.ru/employers/4620243',
+      'alternate_url': 'https://hh.ru/employer/4620243',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1152632.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/6230987.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/6230986.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4620243',
+      'open_vacancies': 3
+    }
+  },
+  {
+    'id': '2058312',
+    'name': {
+      'id': '2058312',
+      'name': '0250',
+      'url': 'https://api.hh.ru/employers/2058312',
+      'alternate_url': 'https://hh.ru/employer/2058312',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1347705.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7010763.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7010762.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2058312',
+      'open_vacancies': 2
+    }
+  },
+  {
+    'id': '9677861',
+    'name': {
+      'id': '9677861',
+      'name': '036Kebab',
+      'url': 'https://api.hh.ru/employers/9677861',
+      'alternate_url': 'https://hh.ru/employer/9677861',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1350091.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7020307.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7020306.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=9677861',
+      'open_vacancies': 1
+    }
+  },
+  {
+    'id': '4429980',
+    'name': {
+      'id': '4429980',
+      'name': '0901',
+      'url': 'https://api.hh.ru/employers/4429980',
+      'alternate_url': 'https://hh.ru/employer/4429980',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/704003.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/3257129.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/3257128.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4429980',
+      'open_vacancies': 1
+    }
+  },
+  {
+    'id': '10296121',
+    'name': {
+      'id': '10296121',
+      'name': '0not1',
+      'url': 'https://api.hh.ru/employers/10296121',
+      'alternate_url': 'https://hh.ru/employer/10296121',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1163475.jpg',
+        '240': 'https://img.hhcdn.ru/employer-logo/6274343.jpeg',
+        '90': 'https://img.hhcdn.ru/employer-logo/6274342.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10296121',
+      'open_vacancies': 1
+    }
+  },
+  {
+    'id': '11105014',
+    'name': {
+      'id': '11105014',
+      'name': '100%',
+      'url': 'https://api.hh.ru/employers/11105014',
+      'alternate_url': 'https://hh.ru/employer/11105014',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=11105014',
+      'open_vacancies': 1
+    }
+  },
+  {
+    'id': '3857386',
+    'name': {
+      'id': '3857386',
+      'name': '1000 ДЛЯ УДОБНОЙ ЖИЗНИ',
+      'url': 'https://api.hh.ru/employers/3857386',
+      'alternate_url': 'https://hh.ru/employer/3857386',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/742325.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/3410262.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/3410261.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3857386',
+      'open_vacancies': 11
+    }
+  },
+  {
+    'id': '5064090',
+    'name': {
+      'id': '5064090',
+      'name': '1000 Ибу',
+      'url': 'https://api.hh.ru/employers/5064090',
+      'alternate_url': 'https://hh.ru/employer/5064090',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5064090',
+      'open_vacancies': 3
+    }
+  },
+  {
+    'id': '1327757',
+    'name': {
+      'id': '1327757',
+      'name': '1000 и одна туфелька',
+      'url': 'https://api.hh.ru/employers/1327757',
+      'alternate_url': 'https://hh.ru/employer/1327757',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/688035.jpg',
+        '240': 'https://img.hhcdn.ru/employer-logo/3193273.jpeg',
+        '90': 'https://img.hhcdn.ru/employer-logo/3193272.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1327757',
+      'open_vacancies': 13
+    }
+  }
+]
